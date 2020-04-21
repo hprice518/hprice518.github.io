@@ -1,11 +1,11 @@
 # Site settings
-author: Harrison Price
-title: 
+author: Harry Price
+title: Taking the Leap 
 header-img: img/home-bg.png
 email: hprice518@gmail.com
-copyright_name: Harrison Price
+copyright_name: Harry Price
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Finally Deciding to Learn Coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  hprice518
